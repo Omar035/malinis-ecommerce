@@ -1,9 +1,9 @@
 <?php
 
-$serverName = 'sql308.byethost33.com';
-$userName = 'b33_28842850';
-$pwd = 'Omar2000';
-$dbName = 'b33_28842850_malinis';
+$serverName = 'xxxxxxxxxx';
+$userName = 'xxxxxx';
+$pwd = 'xxxxxx';
+$dbName = 'xxxxxxx';
 
 $conn = mysqli_connect($serverName, $userName, $pwd, $dbName);
 
